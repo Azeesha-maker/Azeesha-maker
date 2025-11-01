@@ -63,16 +63,6 @@ I'm a **passionate Full-Stack Developer** specializing in **modern web technolog
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Tech | Live | Code |
-|--------|------|------|------|
-| **Pizza Ordering App** 🍕 | Next.js, Tailwind, MongoDB | [Live Demo](https://your-pizza-app.vercel.app) | [Repo](https://github.com/Azeesha-maker/pizza-app) |
-| **FYP: E-Commerce Platform** 🛒 | Next.js, Stripe, PostgreSQL | [Demo](https://fyp-demo.vercel.app) | [Repo](https://github.com/Azeesha-maker/fyp-ecommerce) |
-
-> *Add your actual project links above!*
-
----
 
 ## 📫 Let's Connect!
 
